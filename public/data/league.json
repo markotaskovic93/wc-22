@@ -1,0 +1,46 @@
+{
+    "leagues": {
+        "premierLeague": [
+            {
+                "id": 0,
+                "name": "Manchester United",
+                "position": 0
+            },
+            {
+                "id": 1,
+                "name": "Manchester City",
+                "position": 1
+            },
+            {
+                "id": 2,
+                "name": "Arsenal",
+                "position": 2
+            },
+            {
+                "id": 3,
+                "name": "Liverpool",
+                "position": 3
+            },
+            {
+                "id": 4,
+                "name": "Totenham",
+                "position": 4
+            },
+            {
+                "id": 5,
+                "name": "Everton",
+                "position": 5
+            },
+            {
+                "id": 6,
+                "name": "Leichester",
+                "position": 6
+            },
+            {
+                "id": 7,
+                "name": "Leeds",
+                "position": 7
+            }
+        ]
+    }
+}
